@@ -1,5 +1,4 @@
-# 🛰️ Team Roster
-- hichemabda-source
+# 🛰️ Team Roste
 ## Cloud crew  (edited on github.com)
 - hq-bot
 -
@@ -8,3 +7,4 @@
 
 ## Field agents  (edited from a laptop)
 - securinets-captain
+- hichemabda-source
